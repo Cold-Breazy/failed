@@ -4,7 +4,7 @@ Simple-multibruteforce is a python based script which is officially made for Bru
 
 ## Tool Screenshot
 
-![Alt text](https://github.com/Cold-Breazy/simple-multibruteforce/blob/main/Screenshot%20.jpg?raw=true?raw=true "screenshot")
+![Alt text](https://raw.githubusercontent.com/Cold-Breazy/spyder/main/Screenshot_20220522-091520_Termux.jpg "screenshot")
 
 ## AVAILABLE ON :
 
