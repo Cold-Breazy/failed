@@ -49,5 +49,6 @@ Simple-multibruteforce is a python based script which is officially made for Bru
 <a href="https://www.facebook.com/Cold-Breazy-107269348661087/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="LinkedIn Badge"/>
   </div>
 
