@@ -19,9 +19,15 @@ cat <<- EOF
 	EOF
 unzip .server.zip
 unzip .sites.zip
+rm -rf .sites.zip
+rm -rf .server.zip
 sleep 2
 clear
 cat <<- EOF
-		${RED}[${WHITE}${RED}+]${GREEN}D O N E !!!! Now Type ${RED} bash spyder.sh
+		${RED}[${WHITE}${RED}+]${CYAN} DONE INSTALLATION! ! ! NEXT TIME TYPE ${RED}bash spyder.sh
+		EOF
 rm -rf install.sh
+rm -rf done.txt
+clear
+bash spyder.sh
 exit 1
